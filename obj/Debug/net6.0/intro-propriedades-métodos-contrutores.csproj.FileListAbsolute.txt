@@ -1,0 +1,15 @@
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/bin/Debug/net6.0/intro-propriedades-métodos-contrutores
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/bin/Debug/net6.0/intro-propriedades-métodos-contrutores.deps.json
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/bin/Debug/net6.0/intro-propriedades-métodos-contrutores.runtimeconfig.json
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/bin/Debug/net6.0/intro-propriedades-métodos-contrutores.dll
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/bin/Debug/net6.0/ref/intro-propriedades-métodos-contrutores.dll
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/bin/Debug/net6.0/intro-propriedades-métodos-contrutores.pdb
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/obj/Debug/net6.0/intro-propriedades-métodos-contrutores.csproj.AssemblyReference.cache
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/obj/Debug/net6.0/intro-propriedades-métodos-contrutores.GeneratedMSBuildEditorConfig.editorconfig
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/obj/Debug/net6.0/intro-propriedades-métodos-contrutores.AssemblyInfoInputs.cache
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/obj/Debug/net6.0/intro-propriedades-métodos-contrutores.AssemblyInfo.cs
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/obj/Debug/net6.0/intro-propriedades-métodos-contrutores.csproj.CoreCompileInputs.cache
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/obj/Debug/net6.0/intro-propriedades-métodos-contrutores.dll
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/obj/Debug/net6.0/ref/intro-propriedades-métodos-contrutores.dll
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/obj/Debug/net6.0/intro-propriedades-métodos-contrutores.pdb
+/home/est/doteNetC#/intro-propriedades-métodos-contrutores/obj/Debug/net6.0/intro-propriedades-métodos-contrutores.genruntimeconfig.cache
